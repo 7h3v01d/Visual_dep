@@ -1,4 +1,4 @@
-# Python Import Visualizer
+# VisualDep - Python Import Visualizer
 
 **VisualDep** is a lightweight tool that analyzes Python projects and creates interactive **import dependency graphs** — helping you understand module relationships, spot tightly coupled code, and identify widely used shared modules.
 
