@@ -2,6 +2,24 @@
 
 **VisualDep** is a lightweight tool that analyzes Python projects and creates interactive **import dependency graphs** — helping you understand module relationships, spot tightly coupled code, and identify widely used shared modules.
 
+---
+
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 Comes with two interfaces:
 
 - **CLI** — `VisualDep.py` (fast, scriptable)
@@ -123,15 +141,28 @@ plotly>=5.0
 - External package nodes appear without version information
 - No edge labels / directionality yet (undirected graph)
 
-### Contributing
-Ideas & pull requests welcome!
-Especially interested in:
+---
 
-- Adding edge arrows (import direction)
-- Filtering / highlighting clusters
-- Support for .pyi stubs
-- Better handling of namespace packages
-- Export to Graphviz / Gephi formats
+## Contribution Policy
 
-License
-MIT
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
+
+## License
+This project is not open-source.
+
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
