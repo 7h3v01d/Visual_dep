@@ -143,7 +143,7 @@ plotly>=5.0
 
 ---
 
-## Contribution Policy
+### Contribution Policy
 
 Feedback, bug reports, and suggestions are welcome.
 
@@ -161,7 +161,7 @@ However:
 
 ---
 
-## License
+### License
 This project is not open-source.
 
 It is licensed under a private evaluation-only license.
